@@ -14,6 +14,7 @@ A curated list of all the awesome examples, articles, tutorials and videos for A
 ### Articles & Tutorials:
 
 - [How to aggregate data for BigQuery using Apache Airflow](https://cloud.google.com/blog/big-data/2017/07/how-to-aggregate-data-for-bigquery-using-apache-airflow)
+- [Airflow for ML workflows at Twitter](https://blog.twitter.com/engineering/en_us/topics/insights/2018/ml-workflows.html)
 - [Airflow: Tips, Tricks, and Pitfalls – Nuts & Bolts – Medium](https://medium.com/handy-tech/airflow-tips-tricks-and-pitfalls-9ba53fba14eb)
 - [Building WePay's data warehouse using BigQuery and Airflow](https://wecode.wepay.com/posts/wepays-data-warehouse-bigquery-airflow)
 - [Airflow for Google Cloud: Part 1 – Google Cloud Platform - Medium](https://medium.com/google-cloud/airflow-for-google-cloud-part-1-d7da9a048aa4)
