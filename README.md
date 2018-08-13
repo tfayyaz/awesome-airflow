@@ -20,4 +20,5 @@ A curated list of all the awesome examples, articles, tutorials and videos for A
 - [Airflow for Google Cloud: Part 1 – Google Cloud Platform - Medium](https://medium.com/google-cloud/airflow-for-google-cloud-part-1-d7da9a048aa4)
 - [Building a Data Pipeline with Airflow - Mark Litwintschik](http://tech.marksblogg.com/airflow-postgres-redis-forex.html)
 - [Going with the Flow: How Quizlet uses Apache Airflow](https://medium.com/tech-quizlet/going-with-the-flow-how-quizlet-uses-apache-airflow-to-execute-complex-data-processing-pipelines-1ca546f8cc68)
+- [ETL Best Practices with Airflow](https://gtoonstra.github.io/etl-with-airflow/)
 
