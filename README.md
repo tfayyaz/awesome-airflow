@@ -13,6 +13,7 @@ A curated list of all the awesome examples, articles, tutorials and videos for A
 
 ### Articles & Tutorials:
 
+- [Airflow: Lesser Known Tips, Tricks, and Best Practises](https://medium.com/datareply/airflow-lesser-known-tips-tricks-and-best-practises-cf4d4a90f8f)
 - [How to aggregate data for BigQuery using Apache Airflow](https://cloud.google.com/blog/big-data/2017/07/how-to-aggregate-data-for-bigquery-using-apache-airflow)
 - [Airflow for ML workflows at Twitter](https://blog.twitter.com/engineering/en_us/topics/insights/2018/ml-workflows.html)
 - [Airflow: Tips, Tricks, and Pitfalls – Nuts & Bolts – Medium](https://medium.com/handy-tech/airflow-tips-tricks-and-pitfalls-9ba53fba14eb)
